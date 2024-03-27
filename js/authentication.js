@@ -1,13 +1,12 @@
- 
-  const firebaseConfig = {
-    apiKey: "AIzaSyDrlBus06aYBd6rcq1v5tz6_ul-ZvKvpOs",
-    authDomain: "smartwaste-fe398.firebaseapp.com",
-    projectId: "smartwaste-fe398",
-    storageBucket: "smartwaste-fe398.appspot.com",
-    messagingSenderId: "202936056207",
-    appId: "1:202936056207:web:f11649a9ddfccf2afa73fa",
-    measurementId: "G-F1277WHM5B"
-  };
+const firebaseConfig = {
+  apiKey: "AIzaSyDrlBus06aYBd6rcq1v5tz6_ul-ZvKvpOs",
+  authDomain: "smartwaste-fe398.firebaseapp.com",
+  projectId: "smartwaste-fe398",
+  storageBucket: "smartwaste-fe398.appspot.com",
+  messagingSenderId: "202936056207",
+  appId: "1:202936056207:web:f11649a9ddfccf2afa73fa",
+  measurementId: "G-F1277WHM5B"
+};
 
 
 // Initialize Firebase
